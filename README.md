@@ -1,4 +1,6 @@
 # KOALAS ARE NOT 'BEARS', TECHNICALLY
+# You should watch the video of the Australian Woman saving the 
+# Koala from the forrest fire. 
 
 # Koala
 
