@@ -1,6 +1,7 @@
-require "koala/version"
+require "pry"
 
-module Koala
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require_relative "koala/version"
+require_relative "koala/cli"
+require_relative "koala/api"
+require_relative "koala/koala"
+
